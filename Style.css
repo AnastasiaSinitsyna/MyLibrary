@@ -1,0 +1,17 @@
+body
+{
+    background-color: lightgoldenrodyellow;
+}
+h1
+{
+    color: indianred;
+    font-size: 30pt;
+}
+.author
+{
+    font-style: italic;
+}
+.link
+{
+    font-size: small;
+}
