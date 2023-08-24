@@ -1,0 +1,61 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9349:dae1:e773:9fd1. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 18 21:05:53.355441 2023] [mpm_winnt:notice] [pid 17220:tid 336] AH00455: Apache/2.4.57 (Win64) PHP/8.2.9 configured -- resuming normal operations
+[Fri Aug 18 21:05:53.355441 2023] [mpm_winnt:notice] [pid 17220:tid 336] AH00456: Apache Lounge VS17 Server built: Aug  2 2023 17:28:16
+[Fri Aug 18 21:05:53.355441 2023] [core:notice] [pid 17220:tid 336] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Aug 18 21:05:53.355441 2023] [mpm_winnt:notice] [pid 17220:tid 336] AH00418: Parent: Created child process 12472
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9349:dae1:e773:9fd1. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::9349:dae1:e773:9fd1. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 18 21:05:53.649819 2023] [mpm_winnt:notice] [pid 12472:tid 328] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 19 11:00:18.897575 2023] [mpm_winnt:notice] [pid 17220:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 19 11:00:20.906123 2023] [mpm_winnt:notice] [pid 12472:tid 328] AH00364: Child: All worker threads have exited.
+[Sat Aug 19 11:00:20.921763 2023] [mpm_winnt:notice] [pid 17220:tid 336] AH00430: Parent: Child process 12472 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9349:dae1:e773:9fd1. Set the 'ServerName' directive globally to suppress this message
+[Sat Aug 19 21:43:00.752592 2023] [mpm_winnt:notice] [pid 24996:tid 344] AH00455: Apache/2.4.57 (Win64) PHP/8.2.9 configured -- resuming normal operations
+[Sat Aug 19 21:43:00.753323 2023] [mpm_winnt:notice] [pid 24996:tid 344] AH00456: Apache Lounge VS17 Server built: Aug  2 2023 17:28:16
+[Sat Aug 19 21:43:00.753323 2023] [core:notice] [pid 24996:tid 344] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat Aug 19 21:43:00.758594 2023] [mpm_winnt:notice] [pid 24996:tid 344] AH00418: Parent: Created child process 15240
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9349:dae1:e773:9fd1. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::9349:dae1:e773:9fd1. Set the 'ServerName' directive globally to suppress this message
+[Sat Aug 19 21:43:01.103636 2023] [mpm_winnt:notice] [pid 15240:tid 320] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 19 21:43:17.840173 2023] [mpm_winnt:notice] [pid 24996:tid 344] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 19 21:43:52.487297 2023] [mpm_winnt:notice] [pid 15240:tid 320] AH00362: Child: Waiting 30 more seconds for 1 worker threads to finish.
+[Sat Aug 19 21:44:12.337191 2023] [mpm_winnt:notice] [pid 15240:tid 320] AH00364: Child: All worker threads have exited.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9349:dae1:e773:9fd1. Set the 'ServerName' directive globally to suppress this message
+[Sat Aug 19 22:16:14.306184 2023] [core:warn] [pid 28280:tid 348] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Aug 19 22:16:14.324216 2023] [mpm_winnt:notice] [pid 28280:tid 348] AH00455: Apache/2.4.57 (Win64) PHP/8.2.9 configured -- resuming normal operations
+[Sat Aug 19 22:16:14.324216 2023] [mpm_winnt:notice] [pid 28280:tid 348] AH00456: Apache Lounge VS17 Server built: Aug  2 2023 17:28:16
+[Sat Aug 19 22:16:14.324216 2023] [core:notice] [pid 28280:tid 348] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat Aug 19 22:16:14.330224 2023] [mpm_winnt:notice] [pid 28280:tid 348] AH00418: Parent: Created child process 28632
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9349:dae1:e773:9fd1. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::9349:dae1:e773:9fd1. Set the 'ServerName' directive globally to suppress this message
+[Sat Aug 19 22:16:14.615214 2023] [mpm_winnt:notice] [pid 28632:tid 320] AH00354: Child: Starting 64 worker threads.
+[Sat Aug 19 22:25:21.303309 2023] [mpm_winnt:notice] [pid 28280:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 19 22:25:23.309296 2023] [mpm_winnt:notice] [pid 28632:tid 320] AH00364: Child: All worker threads have exited.
+[Sat Aug 19 22:25:23.335091 2023] [mpm_winnt:notice] [pid 28280:tid 348] AH00430: Parent: Child process 28632 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9349:dae1:e773:9fd1. Set the 'ServerName' directive globally to suppress this message
+[Sat Aug 19 22:25:51.649272 2023] [mpm_winnt:notice] [pid 14912:tid 336] AH00455: Apache/2.4.57 (Win64) PHP/8.2.9 configured -- resuming normal operations
+[Sat Aug 19 22:25:51.649272 2023] [mpm_winnt:notice] [pid 14912:tid 336] AH00456: Apache Lounge VS17 Server built: Aug  2 2023 17:28:16
+[Sat Aug 19 22:25:51.649272 2023] [core:notice] [pid 14912:tid 336] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat Aug 19 22:25:51.655373 2023] [mpm_winnt:notice] [pid 14912:tid 336] AH00418: Parent: Created child process 19224
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9349:dae1:e773:9fd1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9349:dae1:e773:9fd1. Set the 'ServerName' directive globally to suppress this message
+[Sat Aug 19 22:25:51.954199 2023] [mpm_winnt:notice] [pid 19224:tid 328] AH00354: Child: Starting 64 worker threads.
+[Sun Aug 20 15:21:11.850584 2023] [php:error] [pid 19224:tid 1276] [client ::1:64529] PHP Fatal error:  Uncaught Error: Undefined constant "nameGirls" in C:\\localhost\\test1.php:9\nStack trace:\n#0 {main}\n  thrown in C:\\localhost\\test1.php on line 9
+[Sun Aug 20 17:48:20.544126 2023] [php:error] [pid 19224:tid 1288] [client 127.0.0.1:59976] script 'C:/localhost/SQL.php' not found or unable to stat
+[Sun Aug 20 17:54:53.364167 2023] [php:error] [pid 19224:tid 1292] [client 127.0.0.1:60731] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\\localhost\\databaseconnect.php:7\nStack trace:\n#0 {main}\n  thrown in C:\\localhost\\databaseconnect.php on line 7
+[Sun Aug 20 17:57:51.974923 2023] [php:error] [pid 19224:tid 1292] [client 127.0.0.1:60981] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\\localhost\\databaseconnect.php:2\nStack trace:\n#0 {main}\n  thrown in C:\\localhost\\databaseconnect.php on line 2
+[Sun Aug 20 18:42:46.560850 2023] [php:error] [pid 19224:tid 1292] [client 127.0.0.1:63268] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\\localhost\\databaseconnect.php:2\nStack trace:\n#0 {main}\n  thrown in C:\\localhost\\databaseconnect.php on line 2
+[Sun Aug 20 18:44:47.513584 2023] [mpm_winnt:notice] [pid 14912:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Aug 20 18:44:49.537176 2023] [mpm_winnt:notice] [pid 19224:tid 328] AH00364: Child: All worker threads have exited.
+[Sun Aug 20 18:44:49.577066 2023] [mpm_winnt:notice] [pid 14912:tid 336] AH00430: Parent: Child process 19224 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9349:dae1:e773:9fd1. Set the 'ServerName' directive globally to suppress this message
+[Sun Aug 20 18:44:50.655838 2023] [mpm_winnt:notice] [pid 15240:tid 340] AH00455: Apache/2.4.57 (Win64) PHP/8.2.9 configured -- resuming normal operations
+[Sun Aug 20 18:44:50.655838 2023] [mpm_winnt:notice] [pid 15240:tid 340] AH00456: Apache Lounge VS17 Server built: Aug  2 2023 17:28:16
+[Sun Aug 20 18:44:50.655838 2023] [core:notice] [pid 15240:tid 340] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Aug 20 18:44:50.661239 2023] [mpm_winnt:notice] [pid 15240:tid 340] AH00418: Parent: Created child process 27556
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9349:dae1:e773:9fd1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9349:dae1:e773:9fd1. Set the 'ServerName' directive globally to suppress this message
+[Sun Aug 20 18:44:50.946663 2023] [mpm_winnt:notice] [pid 27556:tid 336] AH00354: Child: Starting 64 worker threads.
