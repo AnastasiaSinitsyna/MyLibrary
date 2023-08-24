@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
-    <title>METANIT.COM</title>
+    <title>FormReg</title>
     <meta charset="utf-8">
     <style>
         div{
@@ -26,16 +26,19 @@
     </style>
 </head>
 <body>
-<div id="header">Шапка сайта</div>
-<div id="sidebar">Сайбар</div>
-<div id="main">Основное содержимое
+<div id="main">
     <h2>Введи свои данные:</h2>
     <form action="display.php" method="POST">
-        <p>Введите имя: <input type="text" name="firstname"></p>
-        <p>Введите фамилию: <input type="text" name="lastname"></p>
+        <label>
+            Введите имя:
+            <input type="text" name="firstname">
+        </label>
+        <label>
+            Введите фамилию:
+            <input type="text" name="lastname">
+        </label>
         <input type="submit" value="Отправить">
     </form>
 </div>
-<div id="footer">Футер</div>
 </body>
 </html>
